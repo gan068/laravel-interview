@@ -1,0 +1,7 @@
+#osx
+.DS_Store
+
+#windows
+Thumbs.db
+
+*.swp
